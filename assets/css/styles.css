@@ -7,6 +7,7 @@ html {
   box-sizing: inherit;
 }
 
-h2 .title {
+.title {
 	text-align: center;
+	font-weight: 400;
 }
